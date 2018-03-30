@@ -33,7 +33,7 @@ function iLoveTheBeatles(n){
   var array = [];
   do {
     array.push("I love the beatles!");
-  } while ();
+  } while (n < 15);
   
   return
 }
