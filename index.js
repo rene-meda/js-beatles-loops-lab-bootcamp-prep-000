@@ -19,7 +19,7 @@ function theBeatlesPlay(M_array, I_array){
 
 function johnLennonFacts(array){
   for (var i = 0; i < array.length; i++){
-    
+    array[i] += "!!!";
   }
   return
 }
