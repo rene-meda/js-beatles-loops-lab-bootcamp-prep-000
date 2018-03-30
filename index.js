@@ -9,7 +9,7 @@ The loop should make the same sentence for every member of the musicians array.
 The function should return the array of new strings.*/
 
 function theBeatlesPlay(M_array, I_array){
-  var array = {};
+  var array = [];
   for (var i =0; i < M_array.length; i++){
     var string = M_array[i] + " plays " + I_array[i];
     array.push(string);
