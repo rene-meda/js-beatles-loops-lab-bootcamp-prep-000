@@ -16,3 +16,7 @@ function theBeatlesPlay(M_array, I_array){
   }
   return array;
 }
+
+function johnLennonFacts(){
+  return
+}
